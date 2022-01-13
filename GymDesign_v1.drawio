@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-13T19:21:10.117Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="R_jkv8Izr6FzahH4Xs9o" version="16.2.6" type="github">
+<mxfile modified="2022-01-13T19:21:32.742Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="A9RWHDMdLhPJQZlUjJ_Y" version="16.2.6" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,9 +61,6 @@
               <mxPoint x="180" y="215" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="v_64cnrj10Wzc9rdgTUz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;endArrow=none;endFill=0;" edge="1" parent="v_64cnrj10Wzc9rdgTUz-12" source="v_64cnrj10Wzc9rdgTUz-32" target="v_64cnrj10Wzc9rdgTUz-31">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v_64cnrj10Wzc9rdgTUz-32" value="OpenShift Ingress Virtual IP&lt;br&gt;*.apps.ocpinstall.gym.lan&lt;br&gt;192.168.252.4" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;labelBackgroundColor=none;" vertex="1" parent="v_64cnrj10Wzc9rdgTUz-12">
           <mxGeometry x="225" y="180" width="39.42" height="70.4" as="geometry" />
